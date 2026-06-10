@@ -1,4 +1,4 @@
-# Hi there, I'm Geetha Jonnala 👋
+# Hi there, I'm Geetha Charishma Jonnala 👋
 
 ### Senior .NET Full Stack Developer | Healthcare Technology | Cloud & DevOps Enthusiast
 
